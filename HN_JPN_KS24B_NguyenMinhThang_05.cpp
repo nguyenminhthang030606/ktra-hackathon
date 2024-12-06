@@ -8,15 +8,15 @@ int main(){
 	do{
 		printf ("MENU\n"); 
 		printf("1.Nhap so phan tu va gia tri cho mang\n");
-		printf ("2.In ra gia tri cac phan tu trong mang theo dang (arr[0] = 1, arr[1] = 5 Ö)\n");
-		printf ("3.dem so luong c·c so hoan hao co trong mang. Biet so hoan hao la so co tong cac uoc bang chinh no\n");
+		printf ("2.In ra gia tri cac phan tu trong mang theo dang (arr[0] = 1, arr[1] = 5 ‚Ä¶)\n");
+		printf ("3.dem so luong c√°c so hoan hao co trong mang. Biet so hoan hao la so co tong cac uoc bang chinh no\n");
 		printf ("4.Tim gia tri nho thu 2 trong mang, khong duoc sap xep mang\n") ;
-		printf ("5.Them mot phan tu vao vi tri dau tien trong  mang, phan tu moi thÍm v‡o mang phai do nguoi dung nhap vao\n");
+		printf ("5.Them mot phan tu vao vi tri dau tien trong  mang, phan tu moi th√™m v√†o mang phai do nguoi dung nhap vao\n");
 		printf ("6.xoa phan tu tai mot vi tri cu the \n");
 		printf ("7.sap xep mangg theo thu tu giam dan\n");
 		printf ("8.Tim kiem phan tu trong mang, phan tu tim kiem do nguoi dung nhap vao.\n") ;
-		printf ("9.Sap xepp lai mang v‡ hien thi ra to‡n bo phan tu co trong mang sao cho toan bo so le dung truoc, so chan dung sau\n") ;
-		printf ("10.–ao nguoc thu tu cua cac phan tu co trong mang va hien thi ra toan bo phan tu co trong mang theo dang (arr[0] = 1 - le, arr[1] = 2 - chan Ö)\n"); 
+		printf ("9.Sap xepp lai mang v√† hien thi ra to√†n bo phan tu co trong mang sao cho toan bo so le dung truoc, so chan dung sau\n") ;
+		printf ("10.√êao nguoc thu tu cua cac phan tu co trong mang va hien thi ra toan bo phan tu co trong mang theo dang (arr[0] = 1 - le, arr[1] = 2 - chan ‚Ä¶)\n"); 
 		printf ("11.THOAT\n");
 		printf ("lua chon cua ban la :");
 		scanf ("%d",&choice); 
